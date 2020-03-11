@@ -1,2 +1,1 @@
-# Intro-to-Git
-Intro to Git lab
+I am editing the README file. Adding some more details about the project description.
